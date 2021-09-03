@@ -31,6 +31,8 @@
   },
   "homepage": "https://github.com/steambap/svg-captcha#readme",
   "dependencies": {
+    "atob": "^2.1.2",
+    "flatted": "^3.2.2",
     "opentype.js": "^0.7.3"
   },
   "devDependencies": {
